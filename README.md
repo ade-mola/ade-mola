@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ademola Olokun
 - 👀 I’m interested in learning Machine Learning.
-- 🌱 I’m currently learning MSc Data Science at The Manchester Metropolitan University.
+- 🌱 I’m currently studying MSc Data Science at The Manchester Metropolitan University.
 - 💞️ I’m looking to collaborate on on Data Analytics and Machine Learning projects.
 - 📫 You can reach me via salamiolokun@gmail.com or https://www.linkedin.com/in/ademolaolokun
 
