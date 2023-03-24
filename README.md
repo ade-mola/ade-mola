@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Ademola Olokun
-- 👀 I’m interested in learning Machine Learning.
-- 🌱 I’m currently studying MSc Data Science at The Manchester Metropolitan University.
-- 💞️ I’m looking to collaborate on on Data Analytics and Machine Learning projects.
+![banner](banner.png)
+
+## Hello!
+
+I am Ademola Olokun, a Data Scientist who knows their way around Python and SQL. I'm currently pursuing my MSc in Data Science at The Manchester Metropolitan University, and I'm eager to take on new challenges both solo and as part of a team. With my expertise in data science and machine learning, I'm always ready to tackle tough problems head-on. Let's connect and create something awesome together!
+
+- 🌱 Skills: Python | SQL | Data Analysis | Machine Learning
 - 📫 You can reach me via salamiolokun@gmail.com or https://www.linkedin.com/in/ademolaolokun
 
 <!---
